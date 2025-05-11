@@ -5,7 +5,7 @@ url = "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/PYTHON"
 
 user_details = {
     "name": "Shriyash Beohar",
-    "email": "shriyashbeohar221179@gmail.com",
+    "email": "shriyashbeohar221179@acropolis.in",
     "regNo": "0827CI221127" 
 }
 
